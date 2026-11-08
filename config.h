@@ -3,9 +3,6 @@
  * SWARM Crab Robot
  * Shared hardware configuration for all firmware modules.
  *
- * Author : Daniel Huang
- * Program: UCLA ECE Fast-Track B.S., Class of 2030
- *
  * Edit pin assignments, timing constants, and voltage limits here.
  * All .ino files include this header.
  */
