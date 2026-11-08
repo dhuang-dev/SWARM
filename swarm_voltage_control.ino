@@ -3,9 +3,6 @@
  * SWARM Crab Robot
  * HV amplifier voltage control via PWM and RC filter.
  *
- * Author : Daniel Huang
- * Program: UCLA ECE Fast-Track B.S., Class of 2030
- *
  * The Arduino does not have a built-in DAC on most boards, so a PWM
  * output is smoothed by an external RC low-pass filter to produce an
  * analog control voltage for the EMCO G-series HV amplifier.
