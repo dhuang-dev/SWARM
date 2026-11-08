@@ -3,9 +3,6 @@ swarm_companion.py
 SWARM Crab Robot
 Companion computer serial bridge and SLAM command dispatcher.
 
-Author : Daniel Huang
-Program: UCLA ECE Fast-Track B.S., Class of 2030
-
 Runs on the Raspberry Pi or Jetson Nano. Connects to the Arduino
 over USB serial and issues gait/voltage commands based on SLAM
 output and AI navigation decisions.
