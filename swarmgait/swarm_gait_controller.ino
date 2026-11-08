@@ -3,9 +3,6 @@
  * SWARM Crab Robot
  * Alternating tetrapod gait state machine.
  *
- * Author : Daniel Huang
- * Program: UCLA ECE Fast-Track B.S., Class of 2030
- *
  * Sequences 16 SES joints (8 legs x 2 joints each) through a
  * 4-phase alternating tetrapod gait. Each joint is switched via
  * an OC100HG optocoupler on a dedicated digital output pin.
