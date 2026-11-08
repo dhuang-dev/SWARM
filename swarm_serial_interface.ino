@@ -3,8 +3,6 @@
  * SWARM Crab Robot
  * Serial command bridge between companion computer and Arduino.
  *
- * Author : Daniel Huang
- * Program: UCLA ECE Fast-Track B.S., Class of 2030
  *
  * The Raspberry Pi / Jetson Nano runs SLAM, AI, and networking.
  * It sends high-level commands over USB serial, and the Arduino
